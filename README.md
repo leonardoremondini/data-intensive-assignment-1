@@ -1,5 +1,5 @@
 # Data Intensive Computing - Assignment 1
-In this lab assignment done togheter with [Haris Poljo](https://github.com/harispoljo), we have precticed the basis of data-intensive programming by setting up HDFS, HBase, Hadoop MapReduce, Spark, and Spark SQL, and implementing simple aplication on them.
+In this lab assignment done togheter with [Haris Poljo](https://github.com/harispoljo), we have precticed the basis of data-intensive programming by setting up HDFS, HBase, Hadoop MapReduce, Spark, and Spark SQL, and implementing simple applications.
 
 # Assignment 1 - Part 1
 Given a list of users, we print out the information of the top ten users based on their reputation. Data is readed from HDFS and it is in the format described below.
